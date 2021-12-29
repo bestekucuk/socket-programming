@@ -1,0 +1,11 @@
+C:\Users\MSİ\Source\Repos\sockettest\sockettest\bin\Debug\sockettest.exe.config
+C:\Users\MSİ\Source\Repos\sockettest\sockettest\bin\Debug\sockettest.exe
+C:\Users\MSİ\Source\Repos\sockettest\sockettest\bin\Debug\sockettest.pdb
+C:\Users\MSİ\Source\Repos\sockettest\sockettest\bin\Debug\SimpleTCP.dll
+C:\Users\MSİ\Source\Repos\sockettest\sockettest\obj\Debug\TCPIPDemo.csproj.AssemblyReference.cache
+C:\Users\MSİ\Source\Repos\sockettest\sockettest\obj\Debug\sockettest.Properties.Resources.resources
+C:\Users\MSİ\Source\Repos\sockettest\sockettest\obj\Debug\sockettest.Form1.resources
+C:\Users\MSİ\Source\Repos\sockettest\sockettest\obj\Debug\TCPIPDemo.csproj.GenerateResource.cache
+C:\Users\MSİ\Source\Repos\sockettest\sockettest\obj\Debug\TCPIPDemo.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Source\Repos\sockettest\sockettest\obj\Debug\sockettest.exe
+C:\Users\MSİ\Source\Repos\sockettest\sockettest\obj\Debug\sockettest.pdb

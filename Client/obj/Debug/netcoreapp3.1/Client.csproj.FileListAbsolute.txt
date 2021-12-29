@@ -1,0 +1,17 @@
+C:\Users\MSİ\Source\Repos\sockettest\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\MSİ\Source\Repos\sockettest\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\MSİ\Source\Repos\sockettest\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\MSİ\Source\Repos\sockettest\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\MSİ\Source\Repos\sockettest\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\MSİ\Source\Repos\sockettest\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\MSİ\Source\Repos\sockettest\Client\bin\Debug\netcoreapp3.1\SimpleTCP.dll
+C:\Users\MSİ\Source\Repos\sockettest\Client\obj\Debug\netcoreapp3.1\Client.Form1.resources
+C:\Users\MSİ\Source\Repos\sockettest\Client\obj\Debug\netcoreapp3.1\Client.csproj.GenerateResource.cache
+C:\Users\MSİ\Source\Repos\sockettest\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSİ\Source\Repos\sockettest\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\MSİ\Source\Repos\sockettest\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\MSİ\Source\Repos\sockettest\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Source\Repos\sockettest\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\MSİ\Source\Repos\sockettest\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\MSİ\Source\Repos\sockettest\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+C:\Users\MSİ\Source\Repos\sockettest\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
